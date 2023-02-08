@@ -1,2 +1,2 @@
 # Tea-Station
-https://tea-station-h.netlify.app/
+tea-station-t.netlify.app
